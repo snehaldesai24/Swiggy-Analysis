@@ -1,1 +1,1 @@
-# Sweeney Analysis – Exploratory Data Analysis (EDA)
+# Swiggy Analysis – Exploratory Data Analysis (EDA)
